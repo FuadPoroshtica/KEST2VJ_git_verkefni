@@ -1,1 +1,16 @@
-Git spurningar og svör
+﻿Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = að breyta directory-ið hvar þú ert.
+	cd ~ = að breyta directory-ið til baka
+	ls = sjá allt hvað er inni
+	pwd = skrifar fullt slóð nafn
+	mkdir = búa til möppu.
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = nota sama directory anna staðar.
+	git log = sýnir logið
+	git status = Sýnir stöðuni
+	git diff = til að sýna mismun milli  staging area og HEAD
+	git checkout = þýðir að þú tekur einhverjar skrá úr geymslunni og endurskapar stöðu tengdrar skrár og skráartré í vinnuskránni.
